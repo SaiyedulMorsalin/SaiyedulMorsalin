@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaiyedulMorsalin
-- 👀 I’m interested in Competetive Programming.
+- 👀I'm interested in competitive programming.
 - 🌱 I’m currently learning CSE.
 
 <!---
