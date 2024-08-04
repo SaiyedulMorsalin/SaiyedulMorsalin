@@ -61,9 +61,9 @@ and expanding my skills in the tech world.
 
 ## :eyes: Latest Projects...
 
-#### :radio_button: Banking Management System.... <a href="">:white_check_mark:Live</a>
-#### :radio_button: Library Management System... <a href="">:white_check_mark:Live</a>
-#### :radio_button: Car Management System... <a href="">:white_check_mark:Live</a>
+#### 1. Banking Management System.... <a href="">:white_check_mark:Live</a>
+#### 2. Library Management System... <a href="">:white_check_mark:Live</a>
+#### 3. Car Management System... <a href="">:white_check_mark:Live</a>
 
 
 
