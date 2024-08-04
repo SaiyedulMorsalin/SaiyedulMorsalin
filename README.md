@@ -11,7 +11,7 @@ like Tailwind CSS, Django Rest Framework, and APIs. Open to learning and contrib
 challenges
 and expanding my skills in the tech world.
 <br />
-:page_with_curl:<a href="/assets/saiyedul_resume.pdf" download>Download My Resume.. :arrow_down:</a>
+:page_with_curl:<a href="/assets/saiyedul_resume.pdf" download>Download My Resume.. </a>:arrow_down:
 <br>
 <br>
 <br>
