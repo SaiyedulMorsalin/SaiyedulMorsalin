@@ -10,7 +10,8 @@ technologies
 like Tailwind CSS, Django Rest Framework, and APIs. Open to learning and contributing, I thrive on tackling
 challenges
 and expanding my skills in the tech world.
-<a href="/assets/saiyedul_resume.pdf" download>:page_with_curl: Download My Resume.. :arrow_down:</a>
+<br />
+:page_with_curl:<a href="/assets/saiyedul_resume.pdf" download>Download My Resume.. :arrow_down:</a>
 <br>
 <br>
 <br>
