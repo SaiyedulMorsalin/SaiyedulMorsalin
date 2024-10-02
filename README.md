@@ -96,7 +96,7 @@ and expanding my skills in the tech world.
 <div align="left">
     <a href="https://app.daily.dev/mdsaiyedulmorsalin"><img align="right"
             src="https://api.daily.dev/devcards/v2/0DmN92Gas4t8P5mCqXWRE.png?type=default&r=kt8" width="250"
-            alt="Mir Hussain's Dev Card" /></a>
+            alt="Saiyedul Morsalin's Dev Card" /></a>
 </div>
 
 #### :pencil: Introduction to - <a href="">In C Programming </a>.
